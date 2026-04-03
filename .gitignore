@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+civic_issues.db
+uploads/*
+!uploads/.gitkeep
+*.pkl
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+.DS_Store
